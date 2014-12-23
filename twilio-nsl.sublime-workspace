@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iterables",
+				"iterables	(local, instance)"
+			],
+			[
+				"get_",
+				"get_width"
+			],
+			[
+				"addresses",
+				"addressesstring"
+			],
+			[
+				"last",
+				"lastprice"
+			],
+			[
+				"requ",
+				"requestBitstampPrice"
+			],
+			[
+				"req",
+				"requestBalances"
+			],
+			[
+				"kitte",
+				"kittenGenerator"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"python",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/Users/bV/AppData/Local/Temp/Mxt73/RemoteFiles/0/bvector@dev.unicorns.xxx/.gitignore",
+		"/H/Users/bV/.ssh/dev.pem",
+		"/H/Users/bV/Documents/GitHub/NSLirc/application.py",
+		"/H/Users/bV/Documents/GitHub/NSLirc/templates/receiver.html",
+		"/H/Users/bV/Documents/GitHub/NSLirc/templates/sender.html",
+		"/H/Users/bV/Documents/css.html",
+		"/H/Users/bV/Documents/css.css",
+		"/H/Users/bV/Documents/ascii-player.html",
+		"/H/Users/bV/Documents/ascii-player2.html",
+		"/H/Users/bV/Documents/firebase.html",
+		"/H/Users/bV/Documents/GitHub/firechat/dist/0.1.5/firechat-kiosk.css",
+		"/H/Users/bV/Documents/GitHub/firechat/dist/0.1.5/firechat-default.js",
+		"/H/Users/bV/Documents/GitHub/firechat/examples/anonymous_auth.html",
+		"/H/Users/bV/Documents/angfire.html",
+		"/H/pygame/pygame-pong/game.py",
+		"/H/Users/bV/Documents/angfire.css",
+		"/H/Users/bV/Documents/firepy.py",
+		"/H/Users/bV/Documents/GitHub/firechat/templates/tab-content.html",
+		"/H/Users/bV/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/README.markdown",
+		"/H/Users/bV/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/H/Users/bV/Documents/GitHub/firechat/templates/message.html",
+		"/C/Anaconda/Lib/site-packages/more_itertools/more.py",
+		"/C/Anaconda/Lib/site-packages/more_itertools/recipes.py",
+		"/H/Users/bV/AppData/Roaming/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/H/Users/bV/AppData/Local/py.ini",
+		"/H/Users/bV/Documents/GitHub/flask/examples/persona/persona.py",
+		"/H/Users/bV/Documents/GitHub/stripepay/templates/navbar.html",
+		"/H/Users/bV/Documents/GitHub/flask/examples/persona/test.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"connected_v",
+			"cc",
+			"ikillrl",
+			"joy",
+			"scrolltop",
+			"localtime",
+			"color",
+			"font-color",
+			"font-size",
+			"font-family",
+			"\\t",
+			"print",
+			"#",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"connected",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 336.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "twilio-nsl.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
